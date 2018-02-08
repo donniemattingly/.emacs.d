@@ -1,0 +1,1 @@
+("~/Dropbox/projects/euler/" "~/clj/euler/")

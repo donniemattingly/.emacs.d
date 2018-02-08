@@ -1,0 +1,19 @@
+
+;; ----- smex-history -----
+(
+ cider-jack-in
+ package-install
+ package-refresh-contents
+ clojure-mode
+ cd
+ 5x5
+ arp
+)
+
+;; ----- smex-data -----
+(
+ (clojure-mode . 1)
+ (cider-jack-in . 3)
+ (package-install . 3)
+ (package-refresh-contents . 1)
+)

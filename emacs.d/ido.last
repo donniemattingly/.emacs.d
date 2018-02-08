@@ -1,0 +1,67 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/donniem/Dropbox/projects/euler/src/" . "euler/")
+ ("/Users/donniem/Dropbox/projects/euler/" . "src/")
+ ("/Users/donniem/Dropbox/projects/" . "euler/")
+ ("/Users/donniem/Dropbox/" . "projects/")
+ ("/" . "Users/")
+ ("/Users/donniem/clj/euler/src/" . "euler/")
+ ("/Users/donniem/clj/euler/" . "src/")
+ ("/Users/donniem/clj/" . "euler/")
+ ("/Users/" . "donniem/")
+ ("/Users/donniem/.emacs.d/" . "customizations/")
+ ("/Users/donniem/" . "clj/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/donniem/clj/euler/src/euler/"
+ "/Users/donniem/Dropbox/projects/euler/src/euler/"
+ "/Users/donniem/Dropbox/projects/euler/"
+ "/Users/donniem/.emacs.d/"
+ "/Users/donniem/clj/euler/"
+ "/Users/donniem/.emacs.d/customizations/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "core.clj"
+ "project.clj"
+ "init.el"
+ "ui.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/donniem/clj/euler/src/euler/" (22580 37376 0 0) "core.clj" "../" "./")
+
+ ("/Users/donniem/clj/euler/" (22582 59168 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "dev-resources/" "CHANGELOG.md" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/donniem/Dropbox/projects/euler/" (22583 548 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "dev-resources/" "CHANGELOG.md" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/donniem/Dropbox/projects/euler/src/euler/" (22582 59546 0 0) "core.clj" "../" "./")
+
+ ("/Users/donniem/Dropbox/" (22582 63224 0 0) "YNAB/" "projects/" "Pictures/" "Notes/" "Mattingly Wedding/" "Lightroom/" "Icon
+" "Get Started with Dropbox.pdf" "dotcom/" "Cooking Books/" "Cameron/" "app-release-unsigned.apk" ".ynabSettings.yroot" ".DS_Store" ".dropbox.cache/" ".dropbox" ".csync_journal.db" "../" "./")
+
+ ("/Users/donniem/Dropbox/projects/euler/src/" (22582 59362 0 0) "euler/" "../" "./")
+
+ ("/Users/donniem/Dropbox/projects/" (22582 59362 0 0) "euler/" "../" "./")
+
+ ("/Users/donniem/.emacs.d/" (22582 59168 0 0) "themes/" "README.md" "projectile-bookmarks.eld" "places" "init.el" "ido.last" "elpa/" "customizations/" "cider-history" "backups/" "auto-save-list/" ".smex-items" ".recentf" ".gitignore" "../" "./")
+
+ ("/Users/donniem/clj/euler/src/" (22579 6432 0 0) "euler/" "../" "./")
+
+ ("/Users/donniem/clj/" (22579 6432 0 0) "euler/" "../" "./")
+
+ ("/Users/" (22311 18774 0 0) "SL-Administrator/" "Shared/" "pairing/" "donniem/" ".localized" "../" "./")
+
+ ("/Users/donniem/" (22579 6420 0 0) "work/" "what2wear/" "WebstormProjects/" "weatherlamp/" "WaterfallChallenge/" "VirtualBox VMs/" "ValidationAndSyncFAS/" "usom-client.zip" "usom-client 2.zip" "usom-client 2/" "usom-client/" "untitled folder/" "Unity/" "TestyTestyTests/" "TestyTest/" "test.pdf" "TastyTests/" "TangoMotion/" "swift-pluralsight/" "slalomLab/" "scripts/" "PycharmProjects/" "Public/" "prl_shownet.sh" "PricingCIScripts/" "pluralsight-gulp/" "Pictures/" "New Unity Project/" "MySlalom/" "MyPlayground.playground/" "MyCricket-iOS/" "MyCricket-Android.zip" "MyCricket-Android/" "Music/" "Movies/" "messages.json" "Lollygagger_tango/" "logo.png" "Library/" "LanternWorks/" "lambda-fun/" "keystore.jks" "image.jpg" "IdeaProjects/" "HtmlDisplayTest/" "hipchat.sh" "first-app/" "Dropbox/" "Downloads/" "dotcom/" "donnie.pl" "Documents/" "Desktop/" "db_entry/" "Creative Cloud Files (archived) (1)/" "Creative Cloud Files/" "coords.txt" "clojure-koans/" "clj/" "ClionProjects/" "cameronanddonnie.com/" "cameronanddonnie/" "BrownBag_April22/" "BrownBag/" "brown-bag/" "blog-ios-xcui-todo/" "blackjack-ruby/" "bin/" "at-t-wms-photo-gallery-web/" "at-t-wms-photo-gallery-mobile/" "Applications (Parallels)/" "Applications/" "AndroidStudioProjects/" "android-testing/" "2016/" ".wireshark/" ".WebStorm10/" ".wapi/" ".vscode/" ".vimrc" ".viminfo" ".vim/" ".v8flags.4.5.103.30.donniem.json" ".Trash/" ".subversion/" ".ssh/" ".scep/" ".python_history" ".putty/" ".PlistBuddy_history" ".pia_manager/" ".particle/" ".oracle_jre_usage/" ".npmrc" ".npm-packages/" ".npm/" ".node_repl_history" ".node-gyp/" ".netrc" ".matplotlib/" ".m2/" ".local/" ".lldb/" ".lesshst" ".lein/" ".ivy2/" ".itmstransporter/" ".IntelliJIdea14/" ".hgignore_global" ".heroku/" ".gradle/" ".gitignore_global" ".gitconfig" ".gem/" ".flyrc" ".emacs.d/" ".DS_Store" ".dropbox/" ".docker/" ".dbvis/" ".cups/" ".config/" ".cocoapods/" ".cisco/" ".CFUserTextEncoding" ".cf/" ".cache/" ".boot2docker/" ".bashrc" ".bash_sessions/" ".bash_profile" ".bash_history" ".babel.json" ".aws/" ".anyconnect" ".AndroidStudio2.0/" ".AndroidStudio1.5/" ".AndroidStudio1.2/" ".android/" ".adobe/" ".account" "../" "./")
+
+ ("/Users/donniem/.emacs.d/customizations/" (21697 33558 0 0) "ui.el" "shell-integration.el" "setup-js.el" "setup-clojure.el" "navigation.el" "misc.el" "elisp-editing.el" "editing.el" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
