@@ -2,6 +2,7 @@
 (add-hook 'rust-mode-hook
           (lambda ()
             (local-set-key (kbd "C-c <tab>") #'rust-format-buffer)))
+
 (defun indent-buffer ()
   "Indent current buffer according to major mode."
   (interactive)
@@ -18,3 +19,4 @@
 (require 'rust-mode)
 (define-key rust-mode-map (kbd "TAB") #'company-indent-or-complete-common)
 (setq company-tooltip-align-annotations t)
+(setq rust-format-on-save t)
