@@ -131,6 +131,8 @@
     ;; easier window resizing
 
 
+    ;; Lisp Stuff
+    slime
     ))
 
 ;; On OS X, an Emacs instance started from the graphical user
@@ -209,6 +211,8 @@
 (load "setup-elixir.el")
 (load "setup-ts.el")
 (load "setup-rust.el")
+(load "setup-lisp.el")
+(load "setup-ocaml.el")
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -221,7 +225,7 @@
  '(neo-window-fixed-size nil)
  '(package-selected-packages
    (quote
-    (yaml-mode rainbow-mode color-identifiers-mode doom-themes neotree clojure-mode-extra-font-locking tagedit smex rainbow-delimiters projectile paredit material-theme magit ido-ubiquitous exec-path-from-shell cider))))
+    (tuareg utop racket-mode slime yaml-mode rainbow-mode color-identifiers-mode doom-themes neotree clojure-mode-extra-font-locking tagedit smex rainbow-delimiters projectile paredit material-theme magit ido-ubiquitous exec-path-from-shell cider))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
